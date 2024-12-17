@@ -47,7 +47,8 @@ The project uses the following technologies:
 - **HTML5** - Structure of the web app.  
 - **CSS3** - Styling for the user interface.  
 - **JavaScript (ES6+)** - Logic and DOM manipulation.  
-- **ExchangeRate API** - For real-time currency conversion.
+- **ExchangeRate API** - For real-time currency conversion.  
+- **Local Storage** - For saving expenses locally without a database.
 
 ---
 
@@ -101,6 +102,7 @@ Once the MVP is complete, the following additional features can be added:
 3. **Expense Filtering**: Filter expenses by category.  
 4. **Expense Sorting**: Sort expenses by date, amount, or category.  
 5. **Local Storage**: Save expenses locally to persist data across sessions.  
+6. **Database Integration**: Consider integrating a database for more robust data management.  
 6. **Responsive Design**: Ensure the app works seamlessly on all devices.  
 
 ---
