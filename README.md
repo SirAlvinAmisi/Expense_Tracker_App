@@ -70,7 +70,7 @@ Follow these steps to set up the project locally:
    ```
    Or, if you use VSCode, install the **Live Server** extension and run the project directly.
 
-3. **Optional**: To access the currency conversion API, sign up for an API key at [ExchangeRate API](https://exchangerate.host).
+3. **Optional**: To access the currency conversion API, sign up for an API key at [ExchangeRate API](https://www.exchangerate-api.com/).
 
 ---
 
@@ -101,8 +101,7 @@ Once the MVP is complete, the following additional features can be added:
 2. **Delete Expenses**: Users can remove expenses from the list.  
 3. **Expense Filtering**: Filter expenses by category.  
 4. **Expense Sorting**: Sort expenses by date, amount, or category.  
-5. **Local Storage**: Save expenses locally to persist data across sessions.  
-6. **Database Integration**: Consider integrating a database for more robust data management.  
+5. **Local Storage**: Save expenses locally to persist data across sessions.   
 6. **Responsive Design**: Ensure the app works seamlessly on all devices.  
 
 ---
@@ -114,7 +113,8 @@ The project follows a clean and organized folder structure:
 ```
 Expense_Tracker_App/
 ├── index.html        # Main HTML file
-├── style.css         # CSS for styling
+├── css/              # Folder for CSS files
+│   └── styles.css    # CSS for styling
 ├── src/
 │   └── app.js        # Main JavaScript file
 ├── assets/           # Images, icons, etc.
@@ -128,8 +128,8 @@ Expense_Tracker_App/
 If you have any questions, feel free to reach out:
 
 - **GitHub**: [SirAlvinAmisi](https://github.com/SirAlvinAmisi)  
-- **Email**: alvin.amisi@example.com (Replace with your actual email)  
-- **LinkedIn**: [LinkedIn Profile](#) _(Add your LinkedIn link if available)_
+- **Email**: alvomakaya@gmail.com  
+- **LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/alvin-amisi-3aaba9109/)  
 
 ---
 
